@@ -1,0 +1,47 @@
+{
+  "author": {
+    "name": "K. Seeliger",
+    "orcid": "0000-0002-5343-0595",
+    "affiliation": "MPI-CBS / MLU Halle-Wittenberg",
+    "contact": "katj@posteo.de",
+    "github": "seelikat",
+    "x": "seelikat",
+    "bluesky": "seelikat",
+    "linkedin": "www.linkedin.com/in/kseeliger",
+    "gender": "male"
+  },
+  "projects": [
+    {
+      "id": "doctorwho",
+      "title": "Doctor Who dataset",
+      "type": "dataset",
+      "doi": "tba",
+      "url": "tba",
+      "keywords": ["fMRI", "vision", "single-subject", "video stimuli", "tv series stimuli"],
+      "description": "Two-channel 250 Hz EEG recordings with MOAAS labels; sedation transitions under propofol.",
+      "year": 2025,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "safeai_eeg",
+      "title": "SAFE-AI Clinical EEG Propofol Dataset",
+      "type": "dataset",
+      "doi": "10.5281/zenodo.1234567",
+      "url": "https://github.com/katja-seeliger/safeai_eeg",
+      "keywords": ["EEG", "propofol", "consciousness", "SDE"],
+      "description": "Two-channel 250 Hz EEG recordings with MOAAS labels; sedation transitions under propofol.",
+      "year": 2025,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "id": "latent_sde_forecaster",
+      "title": "Latent SDE Forecasting Framework",
+      "type": "code",
+      "url": "https://github.com/katja-seeliger/latent-sde-forecasting",
+      "related_to": ["safeai_eeg"],
+      "description": "PyTorch encoder-SDE-decoder for EEG forecasting and state prediction.",
+      "version": "1.2.0",
+      "year": 2025
+    }
+  ]
+}
