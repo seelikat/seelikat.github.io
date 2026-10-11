@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
+N:Seeliger;K.;;;
+FN:K. Seeliger
+ORG:Max Planck Institute for Human Cognitive and Brain Sciences;
+TITLE:PostDoc
+EMAIL;type=INTERNET;type=WORK;type=pref:kseeliger posteo jp
+EMAIL;type=INTERNET;type=HOME:katj posteo de
+item1.URL;type=pref:http://x.com/seelikat
+item1.X-ABLabel:X
+item3.URL;type=pref:http://seelikat.bsky.social
+item3.X-ABLabel:Bluesky
+item4.URL:http://www.linkedin.com/in/kseeliger
+item4.X-ABLabel:LinkedIn
+item5.URL:https://scholar.google.de/citations?hl=de&user=40a-kXoAAAAJ
+item5.X-ABLabel:Google Scholar
+item6.URL:http://seeliger.space/
+item6.X-ABLabel:Academic website
+END:VCARD
